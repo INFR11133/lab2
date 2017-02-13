@@ -49,6 +49,6 @@ Open the notebook *char_language_model.ipynb*
 
 The datasets for this lab are:
 ```
-data/pierwsza.txt
+data/mickiewicz.txt
 data/tinyshakespeare.txt
 ```
